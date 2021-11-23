@@ -157,7 +157,7 @@ you can contact us
 </p>
 
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aji001&show_icons=true&theme=dark&locale=en" alt="aju001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju001" /></p>
     
   <div align="center">
        
