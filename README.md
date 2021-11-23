@@ -7,7 +7,7 @@
 <div align="center">
 <img src="xeon.jpg" alt="Pepe" width="170" />
 
-## AJU SSIER 
+## AJU SER 
 
 </div>
 
