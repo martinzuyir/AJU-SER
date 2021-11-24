@@ -7,15 +7,15 @@
 <div align="center">
 <img src="xeon.jpg" alt="aju" width="170" />
 
-## AJU SER 
+## RAFHAN SER
 
 </div>
 
 <p align="center">
-<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
+<a href="##"><img title="SELF-BOT" src=https://photos.app.goo.gl/CpKvvRRuCwN7tmXb6/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
- <a href="https://github.com/aju001"><img title="Author" src="https://photos.app.goo.gl/CpKvvRRuCwN7tmXb6?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/919745310120?text=Hello%20Rafhan%20Bro🌝...fen%20boi%20aan😌💝"><im>
+ <a href="https://github.com/rafhanser"><img title="Author" src="https://photos.app.goo.gl/CpKvvRRuCwN7tmXb6?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/919745310120?text=Hello%20Rafhan%20Bro🌝...fen%20boi%20aan😌💝"><im>
 </p>
 
 
@@ -24,7 +24,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/AJU-SER) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rafhanser/RAFHAN-SER) 
 
 
 # Requirements
@@ -42,22 +42,22 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/aju001/AJU-SER/blob/master/session.json#L1)
+[`Click Here`](https://github.com/rafhanser/RAFHAN-SER/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/aju001/AJU-SER/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/aju001/AJU-SER/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/rafhanser/RAFHAN-SER/blob/master/index.js#L136)
+- CHANGE OWNER NAME [Here](https://github.com/rafhanser/RAFHAN-SER/blob/master/index.js#L138)
 
 # Installation
 ## Clone Repo & Installation dependencies
 
 
 ``` 
-git clone https://github.com/aju001/AJU-SER.git
+git clone https://github.com/rafhanser/RAFHAN-SER.git
 ```
 ```
-cd AJU-SER
+cd RAFHAN-SER
 ```
 ```
 npm start
@@ -98,7 +98,7 @@ pkg install wget
 pkg install imagemagick -y
 ```
 ```
-git clone https://github.com/aju001/AJU-SER
+git clone https://github.com/rafhanser/RAFHAN-SER
 ```
 ```
 cd AJU-SER
@@ -114,15 +114,12 @@ scan qr code within 15seconds
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+917994873071"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+919745310120"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
-
-* [`My Youtube Channel`](https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA)
+ <a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/>
 
 ### ⚠ Warning ⚠
 
@@ -141,17 +138,16 @@ If you need help
 you can contact us 
 ```
 
-  <p align="center">
-  <a href="https://github.com/aju001/AJU-SER">
+  <p align="cente">
     
 <a href="https:https://github.com/aju001?tab=followers">
 <img src="https://img.shields.io/github/repo-size/aju001/AJU-SER?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/aj001/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/pepesir?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/AJU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/AJU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pepesir/AJU-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/rafhanser/RAFHAN-SER"><img title="Stars" src="https://img.shields.io/github/stars/aju001/AJU-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/rafhanser/RAFHAN-SER"><img title="Forks" src="https://img.shields.io/github/forks/aju001/AJU-SER?color=blue&style=flat-square"></a>
+<a href="/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pepesir/AJU-SER?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
