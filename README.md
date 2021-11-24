@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img src="xeon.jpg" alt="aju" width="170" />
+img.20211124_173719.jpg
 
 ## RAFHAN SER
 
